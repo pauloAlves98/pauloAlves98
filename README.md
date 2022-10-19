@@ -1,19 +1,20 @@
-### Olá, me chamo Paulo! Seja Bem-Vindo ao meu Perfil 😎 
+<h1 align="center">Olá, eu sou o Paulo 👋</h1>
+<h3 align="center">💻 Bacharel em Sistemas de Infomação pela (UFRPE/UAST).</h3>
 
-- 💻 Bacharelando em Sistemas de Infomação (UFRPE/UAST).
 
-<div align="left" style="display: inline_block">
+
+<div  align="center" style="display: inline_block">
   <a href="https://github.com/pauloAlves98"></a>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloAlves98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloAlves98&show_icons=true&theme=dark&count_private=true"/>     
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAlves98&layout=compact&langs_count=7&theme=vision-friendly-dark"/
 </div>
 
 ##
  
-- 🌱 Estudando Tecnologias WEB e Mobile.
+<div  align="center"> 🌱 Estudando Tecnologias WEB e Mobile. </div>
     
     
-<div style="display: inline_block"><br>
+<div style="display: inline_block"  align="center"><br>
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +22,6 @@
   <img align="center" alt="Paulo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-   <img align="center" alt="Paulo-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
 </div>
   
   ##
@@ -32,3 +32,4 @@
 <a href="https://www.linkedin.com/in/pauloalves98" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
