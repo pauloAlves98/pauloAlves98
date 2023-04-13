@@ -1,6 +1,4 @@
-<h1 align="center">Olá, eu sou o Paulo 👋</h1>
-<h3 align="center">💻 Bacharel em Sistemas de Infomação pela (UFRPE/UAST).</h3>
-
+<h1 align="center">Olá👋</h1>
 
 
 <div  align="center" style="display: inline_block">
